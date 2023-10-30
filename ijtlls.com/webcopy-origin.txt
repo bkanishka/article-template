@@ -1,0 +1,1187 @@
+Uri: http://ijtlls.com/
+File Name: C:\Downloaded Web Sites\ijtlls.com\index-1.htm
+Content Type: 
+
+Uri: http://ijtlls.com/data/uploads/ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template/ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template\ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template.pdf.html
+Content Type: text/html
+
+Uri: http://ijtlls.com/data/uploads/membership/Membership Tamil.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\membership\Membership Tamil.pdf.html
+Content Type: text/html
+
+Uri: http://ijtlls.com/membership.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\membership-1.html
+Content Type: text/html
+
+Uri: http://ijtlls.com/special-issue-details.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-issue-details-1.html
+Content Type: 
+
+Uri: https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/additional-methods.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\ajax\jquery.validate\1.13.0\additional-methods.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\ajax\jquery.validate\1.13.0\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\ajax\libs\jquery\1.7.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://archive.org/details/@vinomahes
+File Name: C:\Downloaded Web Sites\ijtlls.com\details\@vinomahes
+Content Type: text/html
+
+Uri: https://cdn.datatables.net/1.10.9/js/dataTables.bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\1.10.9\js\dataTables.bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\1.10.9\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.11.3.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\jquery-1.11.3.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/
+File Name: C:\Downloaded Web Sites\ijtlls.com\index.htm
+Content Type: text/html
+
+Uri: https://ijtlls.com/2018.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\2018.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/2019-jan.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\2019-jan.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/archives.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\archives.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/august-2019-special-issue.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\august-2019-special-issue.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/contact-us.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\contact-us.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/data/uploads/2 Conference Cover.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\2 Conference Cover.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/augustmku.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\augustmku.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/banner-1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/banner-2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/bar.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\bar.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/combined.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\combined.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/December 2020 VOL- 1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\December 2020 VOL- 1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/December 2020 VOL- 2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\December 2020 VOL- 2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/december.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\december.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/Arunachalam.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\Arunachalam.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/e-members/elya.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\elya.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/kulandhaivel.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\kulandhaivel.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/maheswari.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\maheswari.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/mohana.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\mohana.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/nagajothi.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\nagajothi.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/patrons.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\patrons.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/prashant.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\prashant.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/Ramrajapandi.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\Ramrajapandi.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/sascha.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\sascha.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/sasi.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\sasi.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/vedaraja.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\vedaraja.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/e-members/vinoth.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\e-members\vinoth.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/fb.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\fb.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/Final cover NSR.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\Final cover NSR.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template/ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template\ijtlls-paper-format-liability-submission-model-paper-copyright-transfer-agreement-template.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/issn.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\issn.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/license-11.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-11.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-12.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-12.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-13.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-13.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-14.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-14.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-15.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-15.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-16.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-16.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-17.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-17.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-18.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-18.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-19.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-19.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-20.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-20.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-21.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-21.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-22.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-22.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-23.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-23.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-24.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-24.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-25.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-25.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-26.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-26.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-27.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-27.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-3.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-4.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/license-5.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-5.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/license-6.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-6.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/license-7.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-7.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/license-8.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-8.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/license-9.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license-9.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/license.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\license.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/logo.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\logo.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/membership/Membership Tamil.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\membership\Membership Tamil.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/publication-ethics/Publication Ethics - Ijtlls.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\publication-ethics\Publication Ethics - Ijtlls.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue/volume-4-special-issue-2-june-2022/Cover Image JPG.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue\volume-4-special-issue-2-june-2022\Cover Image JPG.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special-vol1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-vol1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special-vol2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-vol2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special2-vol-2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special2-vol-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special2-vol1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special2-vol1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special3-vol1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special3-vol1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special3-vol2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special3-vol2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL July Vol-3 image -1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL July Vol-3 image -1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL March Vol-1 image.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL March Vol-1 image.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL March Vol-2 image.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL March Vol-2 image.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL March Vol-3 image.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL March Vol-3 image.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/twitter.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\twitter.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/vol-3-sp-3-vol-1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\vol-3-sp-3-vol-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/vol-3-sp-3-vol-2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\vol-3-sp-3-vol-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/vol-3-sp-3-vol-3.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\vol-3-sp-3-vol-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/december-2019-special-issue.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\december-2019-special-issue.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/editorial-board.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\editorial-board.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/july-2019-special-issue-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\july-2019-special-issue-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/manuscript-guidelines.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\manuscript-guidelines.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/may-2019-volume-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\may-2019-volume-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/may-2019-volume-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\may-2019-volume-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/membership.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\membership.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/css/nivo-slider-default.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\css\nivo-slider-default.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/css/nivo-slider.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\css\nivo-slider.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/js/jquery.nivo.slider.pack.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\js\jquery.nivo.slider.pack.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/policies.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\policies.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-issue-details.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-issue-details.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-issue.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-issue.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/theme/Bootstrap3/css/Bootstrap3.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\css\Bootstrap3.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/theme/Bootstrap3/css/bootstrap_Default.min.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\css\bootstrap_Default.min.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/theme/Bootstrap3/ico/favicon.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\ico\favicon.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/contactform.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\contactform.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/jquery.tablesorter.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\jquery.tablesorter.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/style.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\style.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/vol-2-feb-2020-specialissue-3-vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-2-feb-2020-specialissue-3-vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-2-issue2-january-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-2-issue2-january-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-jan-2021-spl-3-vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-jan-2021-spl-3-vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-jan-2021-spl-3-vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-jan-2021-spl-3-vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-jan-2021-spl-3-vol-3.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-jan-2021-spl-3-vol-3.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-special-issue-1-july-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-special-issue-1-july-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-spl-issue-2-vol-1-dec-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-spl-issue-2-vol-1-dec-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-feb-2020-special-issue-3-vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-feb-2020-special-issue-3-vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-march-2020-special-issue-4vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-march-2020-special-issue-4vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-march-2020-special-issue-4vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-march-2020-special-issue-4vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-march-2020-special-issue-4vol-3.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-march-2020-special-issue-4vol-3.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-3-december-2020-special-issue-2vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-3-december-2020-special-issue-2vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-3-issue-1-july-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-3-issue-1-july-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-3-issue-2-january-2021.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-3-issue-2-january-2021.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-issue-1-july-2021.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-issue-1-july-2021.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-issue-2-jan-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-issue-2-jan-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-special-issue-1december-2021.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-special-issue-1december-2021.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-special-issue-2-june-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-special-issue-2-june-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-issue-1-july-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-issue-1-july-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-issue-2-january-2023.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-issue-2-january-2023.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-special-issue-1-november-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-special-issue-1-november-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-special-issue-2-june-2023.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-special-issue-2-june-2023.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-6-issue-1-july-2023.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-6-issue-1-july-2023.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/widget.js?v=1.0
+File Name: C:\Downloaded Web Sites\ijtlls.com\widget.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\bootstrap\3.3.5\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7195845529327639
+File Name: C:\Downloaded Web Sites\ijtlls.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-156342403-1
+File Name: C:\Downloaded Web Sites\ijtlls.com\gtag\js
+Content Type: application/javascript
+
+ame: C:\Downloaded Web Sites\ijtlls.com\data\uploads\publication-ethics\Publication Ethics - Ijtlls.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/1-a.-axchiliyamary.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\1-a.-axchiliyamary.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/10-dr.-n.kumari.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\10-dr.-n.kumari.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/11-dr.-a.-govindharajan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\11-dr.-a.-govindharajan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/12-m.-sankar-munisamy.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\12-m.-sankar-munisamy.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/13..-dr.-r.sasikala.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\13..-dr.-r.sasikala.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/14.-dr.-t.-sanmugaraja.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\14.-dr.-t.-sanmugaraja.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/15.-s.saravanan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\15.-s.saravanan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/16.-dr.-s.santhi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\16.-dr.-s.santhi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/17.-p.sivasankari.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\17.-p.sivasankari.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/18.-m.syamala.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\18.-m.syamala.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/19.-dr.-a.-suganthi-annathai.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\19.-dr.-a.-suganthi-annathai.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/2-dr.-d.ashok.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\2-dr.-d.ashok.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/20.-g.suganya.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\20.-g.suganya.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/21.-dr.-n.senthil.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\21.-dr.-n.senthil.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/22.-dr.-g.senthil-selvi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\22.-dr.-g.senthil-selvi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/23.-dr.-r.sorna-bamila..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\23.-dr.-r.sorna-bamila..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/24.-k.-thenmozhi..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\24.-k.-thenmozhi..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/25.-dr.-k.nageswari.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\25.-dr.-k.nageswari.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/26.-dr.-j.babitha.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\26.-dr.-j.babitha.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/27.-dr.-s.pandiammal.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\27.-dr.-s.pandiammal.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/28.-dr.-r.balakrishnan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\28.-dr.-r.balakrishnan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/29.-s.prakash.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\29.-s.prakash.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/3-s.-alex-jacob.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\3-s.-alex-jacob.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/30.-dr.-d.buvaneswari.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\30.-dr.-d.buvaneswari.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/31.-p.manikandan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\31.-p.manikandan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/32.-dr.-t.manimozhi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\32.-dr.-t.manimozhi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/33.-g.mathiarashi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\33.-g.mathiarashi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/34.-dr.-r.manoharan..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\34.-dr.-r.manoharan..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/35.-n.malathi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\35.-n.malathi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/36.-s.muhammad-asrin..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\36.-s.muhammad-asrin..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/37.-s.yuvaraj.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\37.-s.yuvaraj.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/38.-p.ragasudha-dr.-senthil-kumar.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\38.-p.ragasudha-dr.-senthil-kumar.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/39.-l.g.s.rajkumar.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\39.-l.g.s.rajkumar.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/4-dr.-p.revathi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\4-dr.-p.revathi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/40.-dr.-v.vignesh.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\40.-dr.-v.vignesh.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/41.-m.-vijayalakshmi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\41.-m.-vijayalakshmi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/42.-s.vijayan-dr.-senthil-kumar.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\42.-s.vijayan-dr.-senthil-kumar.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/43.-r.vaidheki.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\43.-r.vaidheki.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/44.-n.-vennila.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\44.-n.-vennila.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/45.-dr.-jeevarani.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\45.-dr.-jeevarani.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/46.-dr.-srikala.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\46.-dr.-srikala.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/47.-m.-sridevi-dr.-selva-kumar.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\47.-m.-sridevi-dr.-selva-kumar.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/48.-a.-hajira-begum.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\48.-a.-hajira-begum.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/49.-dr.-hemamalathi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\49.-dr.-hemamalathi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/5-dr.-a.-umamaheswari.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\5-dr.-a.-umamaheswari.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/50.-mr.-s.-mohan-raj-dr-v.-sunitha.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\50.-mr.-s.-mohan-raj-dr-v.-sunitha.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/6-k.-karuppasamy.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\6-k.-karuppasamy.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/7-dr.-k.b.kanimozhi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\7-dr.-k.b.kanimozhi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/8-v.-karthigayini..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\8-v.-karthigayini..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue-july-vol1/9-n.-krishnaraj.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue-july-vol1\9-n.-krishnaraj.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/special-issue/volume-4-special-issue-2-june-2022/Cover Image JPG.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-issue\volume-4-special-issue-2-june-2022\Cover Image JPG.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special-vol1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-vol1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special-vol2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special-vol2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special2-vol-2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special2-vol-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special2-vol1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special2-vol1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special3-vol1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special3-vol1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/special3-vol2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\special3-vol2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL July Vol-3 image -1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL July Vol-3 image -1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL March Vol-1 image.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL March Vol-1 image.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL March Vol-2 image.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL March Vol-2 image.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/SPL March Vol-3 image.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\SPL March Vol-3 image.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/twitter.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\twitter.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/data/uploads/vol-3-sp-3-vol-1.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\vol-3-sp-3-vol-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/vol-3-sp-3-vol-2.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\vol-3-sp-3-vol-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/vol-3-sp-3-vol-3.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\vol-3-sp-3-vol-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/1.dr.s.kanmani-ganesan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\1.dr.s.kanmani-ganesan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/2.dr.j.kavitha.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\2.dr.j.kavitha.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/3.dr.s.-vijayakalaivani.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\3.dr.s.-vijayakalaivani.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/4.m.jothilakshmi-vedaraja..dr.t.k..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\4.m.jothilakshmi-vedaraja..dr.t.k..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/5.mr.s.kulandhaivel.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\5.mr.s.kulandhaivel.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/6.m.vinoth-kumar-vedaraja..dr.t.k..pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\6.m.vinoth-kumar-vedaraja..dr.t.k..pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-1-july-2020/Volume 3 Issue 1July 2020 Full issue.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-1-july-2020\Volume 3 Issue 1July 2020 Full issue.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/1- Gurunathan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\1- Gurunathan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/10-B-Thangamatimuthu.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\10-B-Thangamatimuthu.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/11-Thirumoorthy.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\11-Thirumoorthy.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/2- M-Sankar.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\2- M-Sankar.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/3- Savitha.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\3- Savitha.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/4-Dr-S-Thamizharsi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\4-Dr-S-Thamizharsi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/5-M-Bhuvaneswari.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\5-M-Bhuvaneswari.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/6-V-Manikandan.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\6-V-Manikandan.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/7- Revathi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\7- Revathi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/8- Vijayakumar.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\8- Vijayakumar.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/9- Binila.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\9- Binila.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-3-issue-2-january-2021/Volume 3 Issue 2 Jan 2021 Full issue.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-3-issue-2-january-2021\Volume 3 Issue 2 Jan 2021 Full issue.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/1- Santhi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\1- Santhi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/2- senthilkumar-.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\2- senthilkumar-.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/3- Nagendran-.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\3- Nagendran-.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/4- Nirmala-.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\4- Nirmala-.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/5- Prema.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\5- Prema.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/6- Mahalakshmi.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\6- Mahalakshmi.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/7- Manimegalai.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\7- Manimegalai.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/data/uploads/volume-4-issue-1-july-2021/Volume 4 Issue 1 July 2021 Full Pdf_.pdf
+File Name: C:\Downloaded Web Sites\ijtlls.com\data\uploads\volume-4-issue-1-july-2021\Volume 4 Issue 1 July 2021 Full Pdf_.pdf
+Content Type: application/pdf
+
+Uri: https://ijtlls.com/december-2019-special-issue.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\december-2019-special-issue.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/editorial-board.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\editorial-board.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/july-2019-special-issue-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\july-2019-special-issue-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/manuscript-guidelines.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\manuscript-guidelines.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/may-2019-volume-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\may-2019-volume-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/may-2019-volume-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\may-2019-volume-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/css/nivo-slider-default.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\css\nivo-slider-default.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/css/nivo-slider.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\css\nivo-slider.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/images/nivoSlider/default/arrows.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\images\nivoSlider\default\arrows.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/images/nivoSlider/default/bullets.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\images\nivoSlider\default\bullets.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/images/nivoSlider/default/loading.gif
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\images\nivoSlider\default\loading.gif
+Content Type: image/gif
+
+Uri: https://ijtlls.com/plugins/i18n_gallery/js/jquery.nivo.slider.pack.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\plugins\i18n_gallery\js\jquery.nivo.slider.pack.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/policies.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\policies.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-issue.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-issue.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/special-vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\special-vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/theme/Bootstrap3/css/Bootstrap3.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\css\Bootstrap3.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/theme/Bootstrap3/css/bootstrap_Default.min.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\css\bootstrap_Default.min.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ijtlls.com/theme/Bootstrap3/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://ijtlls.com/theme/Bootstrap3/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ijtlls.com/theme/Bootstrap3/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ijtlls.com/theme/Bootstrap3/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://ijtlls.com/theme/Bootstrap3/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://ijtlls.com/theme/Bootstrap3/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\fonts\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://ijtlls.com/theme/Bootstrap3/ico/favicon.png
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\ico\favicon.png
+Content Type: image/png
+
+Uri: https://ijtlls.com/theme/Bootstrap3/images/main_bg.jpg
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\images\main_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/contactform.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\contactform.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/js/jquery.tablesorter.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\js\jquery.tablesorter.min.js
+Content Type: application/javascript
+
+Uri: https://ijtlls.com/theme/Bootstrap3/style.css
+File Name: C:\Downloaded Web Sites\ijtlls.com\theme\Bootstrap3\style.css
+Content Type: text/css
+
+Uri: https://ijtlls.com/vol-2-feb-2020-specialissue-3-vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-2-feb-2020-specialissue-3-vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-2-issue2-january-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-2-issue2-january-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-jan-2021-spl-3-vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-jan-2021-spl-3-vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-jan-2021-spl-3-vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-jan-2021-spl-3-vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-jan-2021-spl-3-vol-3.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-jan-2021-spl-3-vol-3.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-special-issue-1-july-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-special-issue-1-july-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/vol-3-spl-issue-2-vol-1-dec-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\vol-3-spl-issue-2-vol-1-dec-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-feb-2020-special-issue-3-vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-feb-2020-special-issue-3-vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-march-2020-special-issue-4vol-1.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-march-2020-special-issue-4vol-1.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-march-2020-special-issue-4vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-march-2020-special-issue-4vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-2-march-2020-special-issue-4vol-3.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-2-march-2020-special-issue-4vol-3.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-3-december-2020-special-issue-2vol-2.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-3-december-2020-special-issue-2vol-2.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-3-issue-1-july-2020.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-3-issue-1-july-2020.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-3-issue-2-january-2021.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-3-issue-2-january-2021.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-issue-1-july-2021.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-issue-1-july-2021.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-issue-2-jan-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-issue-2-jan-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-special-issue-1december-2021.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-special-issue-1december-2021.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-4-special-issue-2-june-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-4-special-issue-2-june-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-issue-1-july-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-issue-1-july-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-issue-2-january-2023.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-issue-2-january-2023.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-special-issue-1-november-2022.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-special-issue-1-november-2022.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-5-special-issue-2-june-2023.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-5-special-issue-2-june-2023.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/volume-6-issue-1-july-2023.html
+File Name: C:\Downloaded Web Sites\ijtlls.com\volume-6-issue-1-july-2023.html
+Content Type: text/html
+
+Uri: https://ijtlls.com/widget.js?v=1.0
+File Name: C:\Downloaded Web Sites\ijtlls.com\widget.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ijtlls.com\bootstrap\3.3.5\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7195845529327639
+File Name: C:\Downloaded Web Sites\ijtlls.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-156342403-1
+File Name: C:\Downloaded Web Sites\ijtlls.com\gtag\js
+Content Type: application/javascript
+
